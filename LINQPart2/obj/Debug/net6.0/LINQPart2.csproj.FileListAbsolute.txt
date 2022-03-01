@@ -1,0 +1,17 @@
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\bin\Debug\net6.0\LINQPart2.exe
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\bin\Debug\net6.0\LINQPart2.deps.json
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\bin\Debug\net6.0\LINQPart2.runtimeconfig.json
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\bin\Debug\net6.0\LINQPart2.dll
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\bin\Debug\net6.0\LINQPart2.pdb
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\obj\Debug\net6.0\LINQPart2.csproj.AssemblyReference.cache
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\obj\Debug\net6.0\LINQPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\obj\Debug\net6.0\LINQPart2.AssemblyInfoInputs.cache
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\obj\Debug\net6.0\LINQPart2.AssemblyInfo.cs
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\obj\Debug\net6.0\LINQPart2.csproj.CoreCompileInputs.cache
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\obj\Debug\net6.0\LINQPart2.dll
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\obj\Debug\net6.0\refint\LINQPart2.dll
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\obj\Debug\net6.0\LINQPart2.pdb
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\obj\Debug\net6.0\LINQPart2.genruntimeconfig.cache
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\obj\Debug\net6.0\ref\LINQPart2.dll
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\bin\Debug\net6.0\OpenXmlPowerTools.dll
+C:\Users\lonni\source\repos\LINQPart2\LINQPart2\obj\Debug\net6.0\LINQPart2.csproj.CopyComplete
