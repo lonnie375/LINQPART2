@@ -1,0 +1,15 @@
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\bin\Debug\net6.0\ExceptionsErrorHandling.exe
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\bin\Debug\net6.0\ExceptionsErrorHandling.deps.json
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\bin\Debug\net6.0\ExceptionsErrorHandling.runtimeconfig.json
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\bin\Debug\net6.0\ExceptionsErrorHandling.dll
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\bin\Debug\net6.0\ExceptionsErrorHandling.pdb
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\obj\Debug\net6.0\ExceptionsErrorHandling.csproj.AssemblyReference.cache
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\obj\Debug\net6.0\ExceptionsErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\obj\Debug\net6.0\ExceptionsErrorHandling.AssemblyInfoInputs.cache
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\obj\Debug\net6.0\ExceptionsErrorHandling.AssemblyInfo.cs
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\obj\Debug\net6.0\ExceptionsErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\obj\Debug\net6.0\ExceptionsErrorHandling.dll
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\obj\Debug\net6.0\refint\ExceptionsErrorHandling.dll
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\obj\Debug\net6.0\ExceptionsErrorHandling.pdb
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\obj\Debug\net6.0\ExceptionsErrorHandling.genruntimeconfig.cache
+C:\Users\lonni\source\GrandCircus\ExceptionsErrorHandling\ExceptionsErrorHandling\obj\Debug\net6.0\ref\ExceptionsErrorHandling.dll

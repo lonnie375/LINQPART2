@@ -1,0 +1,15 @@
+C:\Users\lonni\source\repos\DataArrays\DataArrays\bin\Debug\net6.0\DataArrays.exe
+C:\Users\lonni\source\repos\DataArrays\DataArrays\bin\Debug\net6.0\DataArrays.deps.json
+C:\Users\lonni\source\repos\DataArrays\DataArrays\bin\Debug\net6.0\DataArrays.runtimeconfig.json
+C:\Users\lonni\source\repos\DataArrays\DataArrays\bin\Debug\net6.0\DataArrays.dll
+C:\Users\lonni\source\repos\DataArrays\DataArrays\bin\Debug\net6.0\DataArrays.pdb
+C:\Users\lonni\source\repos\DataArrays\DataArrays\obj\Debug\net6.0\DataArrays.csproj.AssemblyReference.cache
+C:\Users\lonni\source\repos\DataArrays\DataArrays\obj\Debug\net6.0\DataArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonni\source\repos\DataArrays\DataArrays\obj\Debug\net6.0\DataArrays.AssemblyInfoInputs.cache
+C:\Users\lonni\source\repos\DataArrays\DataArrays\obj\Debug\net6.0\DataArrays.AssemblyInfo.cs
+C:\Users\lonni\source\repos\DataArrays\DataArrays\obj\Debug\net6.0\DataArrays.csproj.CoreCompileInputs.cache
+C:\Users\lonni\source\repos\DataArrays\DataArrays\obj\Debug\net6.0\DataArrays.dll
+C:\Users\lonni\source\repos\DataArrays\DataArrays\obj\Debug\net6.0\refint\DataArrays.dll
+C:\Users\lonni\source\repos\DataArrays\DataArrays\obj\Debug\net6.0\DataArrays.pdb
+C:\Users\lonni\source\repos\DataArrays\DataArrays\obj\Debug\net6.0\DataArrays.genruntimeconfig.cache
+C:\Users\lonni\source\repos\DataArrays\DataArrays\obj\Debug\net6.0\ref\DataArrays.dll

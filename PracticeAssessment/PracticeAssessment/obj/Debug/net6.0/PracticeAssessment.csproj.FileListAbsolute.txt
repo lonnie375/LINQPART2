@@ -1,0 +1,15 @@
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\bin\Debug\net6.0\PracticeAssessment.exe
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\bin\Debug\net6.0\PracticeAssessment.deps.json
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\bin\Debug\net6.0\PracticeAssessment.runtimeconfig.json
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\bin\Debug\net6.0\PracticeAssessment.dll
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\bin\Debug\net6.0\PracticeAssessment.pdb
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\obj\Debug\net6.0\PracticeAssessment.csproj.AssemblyReference.cache
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\obj\Debug\net6.0\PracticeAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\obj\Debug\net6.0\PracticeAssessment.AssemblyInfoInputs.cache
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\obj\Debug\net6.0\PracticeAssessment.AssemblyInfo.cs
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\obj\Debug\net6.0\PracticeAssessment.csproj.CoreCompileInputs.cache
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\obj\Debug\net6.0\PracticeAssessment.dll
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\obj\Debug\net6.0\refint\PracticeAssessment.dll
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\obj\Debug\net6.0\PracticeAssessment.pdb
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\obj\Debug\net6.0\PracticeAssessment.genruntimeconfig.cache
+C:\Users\lonni\source\repos\PracticeAssessment\PracticeAssessment\obj\Debug\net6.0\ref\PracticeAssessment.dll

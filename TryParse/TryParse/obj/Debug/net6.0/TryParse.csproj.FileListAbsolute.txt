@@ -1,0 +1,15 @@
+C:\Users\lonni\source\repos\TryParse\TryParse\bin\Debug\net6.0\TryParse.exe
+C:\Users\lonni\source\repos\TryParse\TryParse\bin\Debug\net6.0\TryParse.deps.json
+C:\Users\lonni\source\repos\TryParse\TryParse\bin\Debug\net6.0\TryParse.runtimeconfig.json
+C:\Users\lonni\source\repos\TryParse\TryParse\bin\Debug\net6.0\TryParse.dll
+C:\Users\lonni\source\repos\TryParse\TryParse\bin\Debug\net6.0\TryParse.pdb
+C:\Users\lonni\source\repos\TryParse\TryParse\obj\Debug\net6.0\TryParse.csproj.AssemblyReference.cache
+C:\Users\lonni\source\repos\TryParse\TryParse\obj\Debug\net6.0\TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonni\source\repos\TryParse\TryParse\obj\Debug\net6.0\TryParse.AssemblyInfoInputs.cache
+C:\Users\lonni\source\repos\TryParse\TryParse\obj\Debug\net6.0\TryParse.AssemblyInfo.cs
+C:\Users\lonni\source\repos\TryParse\TryParse\obj\Debug\net6.0\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\lonni\source\repos\TryParse\TryParse\obj\Debug\net6.0\TryParse.dll
+C:\Users\lonni\source\repos\TryParse\TryParse\obj\Debug\net6.0\refint\TryParse.dll
+C:\Users\lonni\source\repos\TryParse\TryParse\obj\Debug\net6.0\TryParse.pdb
+C:\Users\lonni\source\repos\TryParse\TryParse\obj\Debug\net6.0\TryParse.genruntimeconfig.cache
+C:\Users\lonni\source\repos\TryParse\TryParse\obj\Debug\net6.0\ref\TryParse.dll

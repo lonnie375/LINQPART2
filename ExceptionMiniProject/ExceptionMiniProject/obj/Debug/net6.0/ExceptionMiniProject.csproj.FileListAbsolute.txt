@@ -1,0 +1,15 @@
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\obj\Debug\net6.0\ExceptionMiniProject.csproj.AssemblyReference.cache
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\obj\Debug\net6.0\ExceptionMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\obj\Debug\net6.0\ExceptionMiniProject.AssemblyInfoInputs.cache
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\obj\Debug\net6.0\ExceptionMiniProject.AssemblyInfo.cs
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\obj\Debug\net6.0\ExceptionMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\bin\Debug\net6.0\ExceptionMiniProject.exe
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\bin\Debug\net6.0\ExceptionMiniProject.deps.json
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\bin\Debug\net6.0\ExceptionMiniProject.runtimeconfig.json
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\bin\Debug\net6.0\ExceptionMiniProject.dll
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\bin\Debug\net6.0\ExceptionMiniProject.pdb
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\obj\Debug\net6.0\ExceptionMiniProject.dll
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\obj\Debug\net6.0\refint\ExceptionMiniProject.dll
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\obj\Debug\net6.0\ExceptionMiniProject.pdb
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\obj\Debug\net6.0\ExceptionMiniProject.genruntimeconfig.cache
+C:\Users\lonni\source\GrandCircus\ExceptionMiniProject\ExceptionMiniProject\obj\Debug\net6.0\ref\ExceptionMiniProject.dll

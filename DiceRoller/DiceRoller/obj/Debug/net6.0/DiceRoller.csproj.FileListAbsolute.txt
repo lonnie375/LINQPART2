@@ -1,0 +1,5 @@
+C:\Users\lonni\source\repos\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.csproj.AssemblyReference.cache
+C:\Users\lonni\source\repos\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonni\source\repos\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.AssemblyInfoInputs.cache
+C:\Users\lonni\source\repos\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.AssemblyInfo.cs
+C:\Users\lonni\source\repos\DiceRoller\DiceRoller\obj\Debug\net6.0\DiceRoller.csproj.CoreCompileInputs.cache
